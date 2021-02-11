@@ -1,2 +1,3 @@
 # Horiseon
 Davis's Horiseon Example
+    - This is my completed version for the Horiseon homework assignment. To make the site more asscessible I added alt tags to all of the images. I corrected the paths for the header to make sure the links were operating. I also added more understandable html tags to the index.html file instead of all of the divs. Then finally I had to change some of the paths on the style.css file.
